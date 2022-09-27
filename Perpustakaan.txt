@@ -4,5 +4,6 @@ a. buku pelajaran
   - buku agama
   - buku IPA
 b. buku novel
+c. buku alkitab
 
 
